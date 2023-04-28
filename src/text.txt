@@ -1,0 +1,41 @@
+CRUD de Productos
+
+Producto = {
+    name: String,
+    priceARG: Number,
+    priceUSD: Number,
+    description: String,
+    thumnail: String,
+    cant: Number,
+    state: Boolean,
+    category: String,
+    galery: [
+        {
+            image: String
+        }
+    ]        
+
+}
+
+
+*Api dolar
+
+Ruta para actualizar precios a dolar
+
+
+
+
+{
+    "name":"Fat Boy 60ml - Mango Maduro  ",
+    "description":"Este sabor es una mezcla genial de mango maduro y mango exótico del este. El olor del mango es aromáticamente desgarrador, sin ser abrumador. La nota perfecta de dulzor y el pequeño toque de acidez, combinado con la frescura de la menta, te deja probar el paraíso.",
+    "priceARG": 17.990,
+    "priceUSD":40,
+    "cant":9,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_fatboy8414.png?54&time=1682449045",
+    "brand":"Nasty",
+    "galery":[],
+    "category":"liquids",
+    "type":"FreeBase"
+}
+
+

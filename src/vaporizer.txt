@@ -1,0 +1,450 @@
+{
+    "name":"",
+    "description":"",
+    "priceARG":24.990,
+    "priceUSD":20,
+    "cant":7,
+    "thumnail":"",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"",
+            "color":"Pink"
+        },
+        {
+            "image":"",
+            "color":"Galaxy Red"
+        },
+        {
+            "image":"",
+            "color":"Galaxy Blue"
+        },
+    ],
+    "category":"pod"
+}
+
+{
+    "name":"TARGET 200",
+    "description":"El nuevo Target 200 es el producto estrella de la línea Target. Con su innovadora forma y marco, redefine el tamaño de un equipo de doble batería, siendo suficientemente compacto para salir con él, y poderoso para usarlo dentro de casa. Su exterior bordado resistente al agua entrega un agarre muy cómodo y larga durabilidad. El nuevo iTank redefine el vapeo DTL. Su capacidad de 8ml te permite usarlo por mucho tiempo sin necesidad de recarga. El innovador sistema de flujo de aire turbo junto al chip AXON te entregarán una experiencia única, con grandes nubes y un denso sabor.",
+    "priceARG":79990,
+    "priceUSD":20,
+    "cant":7,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_carbon-black-15946.png?54&time=1682525578",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_carbon-black-15946.png?54&time=1682525578",
+            "color":"Carbon Black"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_sunset-red-10689.png?54&time=1682525578",
+            "color":"Sunset Red"
+        }
+    ],
+    "category":"tank-pod"
+}
+
+{
+    "name":"GEN 200",
+    "description":"Presentamos el nuevo GEN 200, nuevo miembro de la familia GEN, diseñado para ser el kit de batería doble más liviano del mercado. Usando el innovador iTank entrega una experiencia sabrosa y sin preocupaciones gracias a su sistema turbo de flujo de aire y su limpieza automática de líquido. Las nuevas resistencias GTi entregan más opciones para una experiencia de vapeo DTL muy poderosa.",
+    "priceARG":64990,
+    "priceUSD":20,
+    "cant":7,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_aurora-green-41012.png?54&time=1682525579",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_aurora-green-41012.png?54&time=1682525579",
+            "color":"Aurora Green"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_dark-black-49210.png?54&time=1682525579",
+            "color":"Dark Black"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_light-sliver-46215.png?54&time=1682525579",
+            "color":"Light Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_matte-grey-44201.png?54&time=1682525579",
+            "color":"Matte Grey"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_midnight-blue-42235.png?54&time=1682525579",
+            "color":"Midnight Blue"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_sunset-glow-40212.png?54&time=1682525579",
+            "color":"Sunset Glow"
+        },
+    ],
+    "category":"tank-pod"
+}
+
+
+{
+    "name":"LUXE X",
+    "description":"Viendo el futuro. El primer pod de 40W con resistencia incorporada. Su cuerpo transparente entrega un estilo único, futurista y tecnológico. Con tecnología COREX y el poder de nuestro chip AXON, puedes experimentar un sabor sorprendente y nubes gigantes para un pod tan pequeño. La tecnología anti-goteo SSS con resistencia incorporada te asegurará un experiencia libre de accidentes. Luxe X es el pod más compacto, estiloso y simple que puede hacer DTL.",
+    "priceARG":37990,
+    "priceUSD":80,
+    "cant":7,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_purple1369.png?54&time=1682525351",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_purple1369.png?54&time=1682525351",
+            "color":"Purple"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_green1392.png?54&time=1682525351",
+            "color":"Green"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_silver1155.png?54&time=1682525351",
+            "color":"Silver"
+        },
+    ],
+    "category":"pod"
+}
+
+{
+    "name":"XROS NANO",
+    "description":"Con un diseño refrescado, el Xros Nano destaca por su look urbano y a la moda. Gracias al modo Pulse de su AXON Chip, el Xros Nano entrega un excelente sabor desde el primer al último puff, entregando una experiencia única para los amantes del vapeo MTL. Con su batería de 1000mAH te acompañará sin problemas por más de un día. Compatible con los mismos pods de toda la familia Xros.",
+    "priceARG":33990,
+    "priceUSD":70,
+    "cant":7,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_silver-15948.png?54&time=1682525012",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_silver-15948.png?54&time=1682525012",
+            "color":"Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_green-10512.png?54&time=1682525012",
+            "color":"Green"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_black-12383.png?54&time=1682525012",
+            "color":"Black"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_pink-12200.png?54&time=1682525012",
+            "color":"Pink"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-nano-orange4084.png?54&time=1682525012",
+            "color":"Orange"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-nano-aqua3952.png?54&time=1682525012",
+            "color":"Aqua"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-nano-lemon3962.png?54&time=1682525012",
+            "color":"lemon"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_bronze-gold-17404.png?54&time=1682525012",
+            "color":"Bronze Gold"
+        },
+    ],
+    "category":"pod"
+}
+
+
+
+{
+    "name":"X MINI",
+    "description":"Pequeño pero poderoso. El X Mini es un sorprendente producto para principiantes, con una batería de 1150mAh en su pequeño cuerpo, puede llegar hasta los 29W. Su resistencia MESH tipo panal y su chip MCU patentado, entrega un consistente e increíble sabor.",
+    "priceARG":18392,
+    "priceUSD":40,
+    "cant":7,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_1-36640.png?54&time=1682524856",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_1-36640.png?54&time=1682524856",
+            "color":"Galaxy Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_1-22931.png?54&time=1682524856",
+            "color":"Aegean Blue"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_2-14731.png?54&time=1682524856",
+            "color":"Space Grey"
+        },
+    ],
+    "category":"pod"
+}
+
+{
+    "name":"OSMALL 2",
+    "description":"El Osmall 2 es un pod para MTL muy fácil de usar. Equipado con la nueva resistencia de 1,2ohm entrega una gran satisfacción prolongando su duración. La tecnología SSS anti-goteo y su batería 29% más grande te darán una experiencia muy limpia.",
+    "priceARG":24.990,
+    "priceUSD":20,
+    "cant":13,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_blue6407.png?54&time=1682488760",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_blue6407.png?54&time=1682488760",
+            "color":"Blue"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_black8660.png?54&time=1682488760",
+            "color":"Black"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_green6368.png?54&time=1682488760",
+            "color":"Green"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_gold6349.png?54&time=1682488760",
+            "color":"Gold"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_sliver6442.png?54&time=1682488760",
+            "color":"Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_pink6381.png?54&time=1682488760",
+            "color":"Pink"
+        },
+    ],
+    "category":"pod"
+}
+
+{
+    "name":"XROS 3",
+    "description":"Cruza los límites, de nuevo. El Xros 3 es el nuevo pod de la línea Xros, una elección perfecta para quienes buscan consistencia y un buen sabor desde una experiencia RDL o MTL. Cruza los límites con los nuevos pods de 0,6ohm y 1,0ohm, o mantente fiel con los pods anteriores totalmente compatibles. Cruza los límites con el potente sabor, gracias a la COREX Heating Tech. Activación mediante botón o automática al vapear.",
+    "priceARG":34.990,
+    "priceUSD":20,
+    "cant":21,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-new-colors-33980.png?54&time=1682487849",
+    "brand":"Vaporesso",                                                        
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-new-colors-33980.png?54&time=1682487849",
+            "color":"Synthwave"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_mint-green-16499.png?54&time=1682487849",
+            "color":"Icy Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_royal-gold-16457.png?54&time=1682487849",
+            "color":"Royal Gold"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-new-colors-13990.png?54&time=1682487849",
+            "color":"Zenith"
+        },
+                {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-new-colors-23844.png?54&time=1682487849",
+            "color":"Neon Sunset"
+        },
+    ],
+    "category":"POD"
+}
+
+{
+    "name":"Xros 3 Mini ",
+    "description":"El Xros 3 Mini es el nuevo ultra portable pod de la familia Xros. Un pod extremadamente simple para MTL, que también puede hacer RDL sin problemas. Cruza los límites con los nuevos pods de 0,6ohm y 1,0ohm, con nueva boquilla y tecnología SSS anti-goteo. Cruza los limites del sabor con su COREX Heating Tech. Con su activación automática, vapear nunca fue más fácil.",
+    "priceARG":24.990,
+    "priceUSD":20,
+    "cant":14,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3815325.png?54&time=1682447364",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3815325.png?54&time=1682447364",
+            "color":"Navy Blue"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3784821.png?54&time=1682447364",
+            "color":"Black"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3825306.png?54&time=1682447364",
+            "color":"Rose Pink"
+        },
+    ],
+    "category":"POD"
+}
+
+{
+    "name":"Luxe XR",
+    "description":"Viendo el futuro. Su cuerpo transparente entrega un estilo único, futurista y tecnológico. Con tecnología COREX y el poder de nuestro chip AXON, puedes experimentar un sabor sorprendente y nubes gigantes para un pod tan pequeño. La tecnología anti-goteo SSS con resistencia incorporada te asegurará un experiencia libre de accidentes. Luxe X es el pod más compacto, estiloso y simple que puede hacer DTL.",
+    "priceARG":24.990,
+    "priceUSD":20,
+    "cant":7,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3815325.png?54&time=1682447364",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_pink8726.png?54&time=1682394286",
+            "color":"Pink"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_galaxy-red8444.png?54&time=1682394286",
+            "color":"Galaxy Red"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_galaxy-blue8579.png?54&time=1682394286",
+            "color":"Galaxy Blue"
+        },
+    ],
+    "category":"POD"
+}
+
+
+
+
+{
+    "name":"Gen Fit 40",
+    "description":"El Gen Fit 40 es un tank pod de 40W con el iTank X perfecto para principiantes. Con la innovadora tecnología COREX en su interior, las resistencias GTX entregan un consistente y preciso sabor. Su método de llenado superior y el sistema de re-circulación de líquido previene los molestos goteos. Todo esto en un diseño portable, cómodo y minimalista.",
+    "priceARG":34.993,
+    "priceUSD":35,
+    "cant":3,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_sierra-blue-15450.png?54&time=1682451762",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_pink8726.png?54&time=1682394286",
+            "color":"Taffy Pink"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_rose-gold-12613.png?54&time=1682451762",
+            "color":"Rose Gold"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_sierra-blue-15450.png?54&time=1682451762",
+            "color":"Sierra Blue"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_space-grey-19652.png?54&time=1682451762",
+            "color":"Space Grey"
+        },
+    ],
+    "category":"TANK MOD"
+}
+
+{
+    "name":"GEN 80S ",
+    "description":"Presentamos el nuevo GEN 80S, nuevo miembro de la familia GEN, diseñado para ser el kit de batería simple más liviano del mercado. Usando el innovador iTank entrega una experiencia sabrosa y sin preocupaciones gracias a su sistema turbo de flujo de aire y su limpieza automática de líquido. Las nuevas resistencias GTi entregan más opciones para una experiencia de vapeo DTL muy poderosa.",
+    "priceARG":54.990,
+    "priceUSD":110,
+    "cant":2,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_dark-black-13181.png?54&time=1682453708",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_dark-black-13181.png?54&time=1682453708",
+            "color":"Dark Black"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_aurora-green-13684.png?54&time=1682453708",
+            "color":"Aurora Green"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_light-sliver-13184.png?54&time=1682453708",
+            "color":"Light Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_sunset-glow-17010.png?54&time=1682453708",
+            "color":"Sunset Glow"
+        },
+    ],
+    "category":"TANK MOD"
+}
+
+{
+    "name":"Gen Air 40",
+    "description":"El Gen Air 40 tiene una sorprendente batería de 1800mAh en un cuerpo de tan solo 67g. Esto lo convierte en el pod de 40W más liviano. La nueva resistencia GTX con un preciso sistema de flujo de aire es excelente para vapeadores RDTL, y con toda la familia GTX, puedes adaptarlo a todos los gustos. Con el chip AXON y la tecnología SSS anti-goteo, tendrás una experiencia excelente, perfecta para principiantes.",
+    "priceARG":34.990,
+    "priceUSD":80,
+    "cant":5,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_twilight-gold-19028.png?54&time=1682453919",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_twilight-gold-19028.png?54&time=1682453919",
+            "color":"Twiligth Gold"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_aurora-green-13316.png?54&time=1682453919",
+            "color":"Aurora Green"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_light-sliver-11272.png?54&time=1682453919",
+            "color":"Light Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_sakura-pink-18440.png?54&time=1682453919",
+            "color":"Sakura Pink"
+        },
+    ],
+    "category":"POD MOD"
+}
+
+
+{
+    "name":"Gen PT 60",
+    "description":"El Gen PT 60 es uno de los nuevos Pod Mods para vapeadores DTL. Equipado con el nuevo xTank con tecnología SSS anti-goteo y sistema de tapa doble, le entrega una resistencia única, mejor que cualquier otro tanque. En su interior encontraras la calidad y sabor de las resistencias GTX.",
+    "priceARG":44.990,
+    "priceUSD":100,
+    "cant":6,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_aegean-blue-19968.png?54&time=1682454107",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_aegean-blue-19968.png?54&time=1682454107",
+            "color":"Aegean Blue"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_alphine-green-18386.png?54&time=1682454107",
+            "color":"Alpine Green"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_light-sliver-12158.png?54&time=1682454107",
+            "color":"Light Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_earth-brown-13917.png?54&time=1682454107",
+            "color":"Earth Brown"
+        },
+    ],
+    "category":"POD MOD"
+}
+
+
+{
+    "name":"Gen PT 80S",
+    "description":"El Gen PT 80S es uno de los nuevos Pod Mods para vapeadores DTL. Equipado con el nuevo xTank con tecnología SSS anti-goteo y sistema de tapa doble, le entrega una resistencia única, mejor que cualquier otro tanque. En su interior encontraras la calidad y sabor de las resistencias GTX.",
+    "priceARG":44.990,
+    "priceUSD":110,
+    "cant":12,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_alphine-green-34678.png?54&time=1682454231",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_dark-black-34925.png?54&time=1682454231",
+            "color":"Dark Black"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_alphine-green-34678.png?54&time=1682454231",
+            "color":"Alpine Green"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_light-sliver-31520.png?54&time=1682454231",
+            "color":"Light Silver"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_aegean-blue-35561.png?54&time=1682454231",
+            "color":"Aegean Blue"
+        },
+    ],
+    "category":"POD MOD"
+}

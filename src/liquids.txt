@@ -1,0 +1,24 @@
+{
+    "name":"Xros 3 Mini ",
+    "description":"El Xros 3 Mini es el nuevo ultra portable pod de la familia Xros. Un pod extremadamente simple para MTL, que también puede hacer RDL sin problemas. Cruza los límites con los nuevos pods de 0,6ohm y 1,0ohm, con nueva boquilla y tecnología SSS anti-goteo. Cruza los limites del sabor con su COREX Heating Tech. Con su activación automática, vapear nunca fue más fácil.",
+    "priceARG":24.990,
+    "priceUSD":20,
+    "cant":14,
+    "thumnail":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3815325.png?54&time=1682447364",
+    "brand":"Vaporesso",
+    "galery":[
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3815325.png?54&time=1682447364",
+            "color":"Navy Blue"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3784821.png?54&time=1682447364",
+            "color":"Black"
+        },
+        {
+            "image":"https://dojiw2m9tvv09.cloudfront.net/24729/product/X_xros-3-3825306.png?54&time=1682447364",
+            "color":"Rose Pink"
+        },
+    ],
+    "category":"POD"
+}
